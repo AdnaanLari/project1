@@ -30,7 +30,7 @@ project/<br>
 ## 🧑‍💻 Author
 **Adnaan Lari**  
 - GitHub: [My Github](https://github.com/AdnaanLari)
-- LinkedIn: [MyLinkedInProfile]((https://www.linkedin.com/in/adnaan-lari-a95831311/))
+- LinkedIn: [MyLinkedInProfile](https://www.linkedin.com/in/adnaan-lari-a95831311/)
 
 ---
 
