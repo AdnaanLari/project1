@@ -22,10 +22,10 @@ Deployed live on **Vercel** → [View Live Project](https://project1-vck1.vercel
 ---
 
 ## 📂 Folder Structure
-project/
-│── index.html # Main HTML file
-│── style.css # Styling with animations and responsive rules
-│── assets/ # Images, icons, or other static files
+project/<br>
+│── index.html # Main HTML file<br>
+│── style.css # Styling with animations and responsive rules<br>
+│── source/ # Images, icons, or other static files
 
 ## 🧑‍💻 Author
 **Adnaan Lari**  
